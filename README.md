@@ -1,3 +1,6 @@
+![Cover](https://github.com/m-kasim/map-route/blob/main/image_map-shorest-route.png)
+
+
 # Map Route
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
@@ -14,9 +17,9 @@ pip install osmnx networkx geopy matplotlib
 
 ## Usage
 
-Enter the starting address: ```Bahnhofstrasse 45, Zurich```  
-Enter the destination address: ```Seestrasse 353, Zuruich```  
-Map area: ```Zurich, Switzerland```  
+Enter the starting address: **```Bahnhofstrasse 45, Zurich```**  
+Enter the destination address: **```Seestrasse 353, Zuruich```**  
+Map area: **```Zurich, Switzerland```**  
 
 ## License
 
